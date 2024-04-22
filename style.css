@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: poppins,sans-serif;
+    text-align: center;
+}
+.container{
+    background-color:orange;
+    padding: 45px;
+    border-radius: 10px;
+    margin: 115px 350px;
+
+}
+#heading{
+    color: red;
+}
+input[type="button"]{
+    background-color:black;
+    color:white;
+    font-size: x-small;
+    width: 100px;
+}
+.result{
+    color:black;
+}
